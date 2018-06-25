@@ -1,0 +1,11 @@
+micronaut:
+    application:
+        name: screenshooter
+    server:
+        port: 12345
+router:
+    static:
+        resources:
+            enabled: true
+            mapping: /index.html
+            paths: classpath:public

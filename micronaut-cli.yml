@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: screenshooter
+---
+testFramework: junit
+sourceLanguage: java
